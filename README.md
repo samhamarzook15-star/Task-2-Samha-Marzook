@@ -26,27 +26,37 @@ Standardized date and currency formats
 Checked for duplicate records
 Validated Total Price calculations
 Organized and structured the dataset for analysis
+
+
 Analysis Performed
+
 Descriptive Statistics
+
 Total Orders
 Average Order Value
 Median Order Value
 Highest Order Value
 Lowest Order Value
+
 Trend Analysis
+
 Product Performance Analysis
 Order Status Analysis
 Payment Method Analysis
 Referral Source Analysis
 Monthly Revenue Trend Analysis
+
 Key Findings
+
 The dataset contains 1,200 customer orders.
 Average order value was higher than the median, indicating the presence of high-value transactions.
 Chair and Printer products generated the highest revenue.
 Online payments were the most commonly used payment method.
 Revenue fluctuated throughout the year, with June recording the highest sales performance.
 Customer acquisition was distributed across multiple referral sources.
+
 Tools Used
+
 Microsoft Excel
 Pivot Tables
 Pivot Charts
